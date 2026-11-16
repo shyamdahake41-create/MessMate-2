@@ -1,0 +1,10 @@
+target/
+data/
+receipts/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.db
+*.pdf
